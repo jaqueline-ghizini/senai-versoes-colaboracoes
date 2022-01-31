@@ -14,3 +14,5 @@ git remote add origin "destino" - Informa a pasta remota.
 git remote –v - Permite visualizar o repositório remoto.
 git push -u origin master - Publica as alterações no repositório remoto.
 git pull - Baixa as alterações no repositório remoto.
+
+lembrei do comando: git commit
